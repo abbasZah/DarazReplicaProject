@@ -1,9 +1,9 @@
 # DarazReplicaProject
 Daraz Replica Project (an ecommerse site with a daraz.pk design)
 
-web technologies used:
+# web technologies used:
 
-html,css,bootstrap,
-javascript,jquery,
-ajax,json,
+html,css,bootstrap,\
+javascript,jquery,\
+ajax,json,\
 php,sql
