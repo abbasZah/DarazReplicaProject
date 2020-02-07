@@ -10,17 +10,22 @@ php,sql
 
 # Screenshots
 
-# add_product
+
+add_product
 ![alt text](https://raw.githubusercontent.com/abbasZah/DarazReplicaProject/master/Screenshots/add_product.png)
 
-# admin_panel
+
+admin_panel
 ![alt text](https://raw.githubusercontent.com/abbasZah/DarazReplicaProject/master/Screenshots/admin_panel.png)
 
-# cart
+
+cart
 ![alt text](https://raw.githubusercontent.com/abbasZah/DarazReplicaProject/master/Screenshots/cart.png)
 
-# index
+
+index
 ![alt text](https://raw.githubusercontent.com/abbasZah/DarazReplicaProject/master/Screenshots/index.png)
 
-# product
+
+product
 ![alt text](https://raw.githubusercontent.com/abbasZah/DarazReplicaProject/master/Screenshots/product.png)
