@@ -1,5 +1,6 @@
 # DarazReplicaProject
 Daraz Replica Project (an ecommerse site with a daraz.pk design)
+Live View: http://daraz.epizy.com/
 
 web technologies used:
 
